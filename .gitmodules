@@ -1,0 +1,6 @@
+[submodule "LatticeLibrary"]
+	path = LatticeLibrary
+	url = git@github.com:Elima85/LatticeLibrary.git
+[submodule "BccFccRaycaster"]
+	path = BccFccRaycaster
+	url = git@github.com:Elima85/bccfccraycaster.git
